@@ -57,7 +57,3 @@ Once the environment is set up, you can run the notebook to:
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to help improve the project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
