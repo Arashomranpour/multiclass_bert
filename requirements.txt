@@ -1,0 +1,6 @@
+kaggle
+pandas 
+numpy 
+transformers 
+tensorflow 
+tdqm
